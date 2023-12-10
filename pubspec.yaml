@@ -1,0 +1,29 @@
+name: chinese_flashcards
+description: "Flash cards for studying Chinese"
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flip_card: ^0.7.0
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  mobx: ^2.2.3
+  flutter_mobx: ^2.2.0+1
+  csv: ^5.1.1
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
+  mobx_codegen: ^2.4.0
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/cards.csv"
