@@ -10,8 +10,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   List<CardPile> piles = await DBService.retrievePiles();
   if (piles.every((pile) => pile.cards.isEmpty)) {
-    final initialPile =
-        await CSVService.importCardsFromPath("assets/cards.csv", 1);
+    final initialPile = await CSVService.importCardsFromURL(1);
     await DBService.saveCards(initialPile);
   }
   piles = await DBService.retrievePiles();

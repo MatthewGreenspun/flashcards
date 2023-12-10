@@ -1,5 +1,6 @@
 import 'package:chinese_flashcards/models/card_pile.dart';
 import 'package:chinese_flashcards/models/flash_card.dart';
+import 'package:chinese_flashcards/services/csv.dart';
 import 'package:chinese_flashcards/services/db.dart';
 import 'package:mobx/mobx.dart';
 part 'card_store.g.dart';
@@ -42,5 +43,14 @@ abstract class _CardStore with Store {
       addPile(newPile);
     }
     DBService.saveCard(card);
+  }
+
+  @action
+  void loadCards() async {
+    CardPile pile = await CSVService.importCardsFromURL(1);
+    await DBService.saveCards(pile, replace: false);
+    final newPiles = await DBService.retrievePiles();
+    piles.clear();
+    piles.addAll(newPiles);
   }
 }

@@ -23,9 +23,16 @@ class Home extends StatelessWidget {
                     "My Piles",
                     style: Theme.of(context).textTheme.headlineLarge,
                   ),
-                  IconButton(
-                      onPressed: store.toggleLanguage,
-                      icon: const Icon(Icons.language_outlined))
+                  Row(
+                    children: [
+                      IconButton(
+                          onPressed: store.toggleLanguage,
+                          icon: const Icon(Icons.language_outlined)),
+                      IconButton(
+                          onPressed: store.loadCards,
+                          icon: const Icon(Icons.download_outlined))
+                    ],
+                  )
                 ],
               ),
               for (CardPile pile in store.piles) CardPileWidget(pile: pile)

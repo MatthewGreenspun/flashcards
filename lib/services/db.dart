@@ -36,17 +36,20 @@ class DBService {
     return piles;
   }
 
-  static Future<void> saveCard(FlashCard card) async {
+  static Future<void> saveCard(FlashCard card, {bool replace = true}) async {
     final db = await database;
-    db.insert("cards", card.sql, conflictAlgorithm: ConflictAlgorithm.replace);
+    db.insert("cards", card.sql,
+        conflictAlgorithm:
+            replace ? ConflictAlgorithm.replace : ConflictAlgorithm.rollback);
   }
 
-  static Future<void> saveCards(CardPile pile) async {
+  static Future<void> saveCards(CardPile pile, {bool replace = true}) async {
     final db = await database;
     final batch = db.batch();
     for (FlashCard card in pile.cards) {
       batch.insert("cards", card.sql,
-          conflictAlgorithm: ConflictAlgorithm.replace);
+          conflictAlgorithm:
+              replace ? ConflictAlgorithm.replace : ConflictAlgorithm.ignore);
     }
     batch.commit();
   }
