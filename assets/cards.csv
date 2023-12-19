@@ -1,191 +1,41 @@
 character,pinyin,english,part of speech,chinese setence,english sentence
-难忘,nán wàng,Unforgettable,Adjective,这次旅行是难忘的经历。,This trip was an unforgettable experience.
-充满,chōng mǎn,Full of,Verb,高中生活充满了挑战。,High school life is full of challenges.
-酸甜苦辣,suān tián kǔ là,"Sour, sweet, bitter, spicy （ups and downs or the various experiences and flavors of life）",Adjective,高中生活充满了酸甜苦辣。,High school life is full of ups and downs
-确保,què bǎo,Ensure,Verb,我们要确保计划的顺利执行。,We need to ensure the smooth execution of the plan.
-根据,gēn jù,According to,Preposition,根据统计数据，...,"According to the statistics, ..."
-挑战,tiǎo zhàn,Challenge,Noun/Verb,参加这项比赛是一项挑战。,Participating in this competition is a challenge.
-合格,hé gé,Qualified,Adjective,你需要合格的证书。,You need a qualified certificate.
-获得,huò dé,Obtain,Verb,他获得了奖学金。,He obtained a scholarship.
-常见,cháng jiàn,Common,Adjective,这是一个常见问题。,This is a common problem.
-包括,bāo kuò,Include,Verb,这个套餐包括主菜和饮料。,This set includes the main course and a drink.
-田径,tián jìng,Track and field,Noun,她在田径比赛中表现出色。,She performed well in track and field competitions.
-戏剧,xì jù,Drama,Noun,戏剧表演让人兴奋。,Drama performances are exciting.
-辩论,biàn lùn,Debate,Noun/Verb,辩论比赛即将开始。,The debate competition is about to begin.
-机器人,jī qì rén,Robot,Noun,这个机器人可以自动清洁房间。,This robot can clean rooms automatically.
-代表,dài biǎo,Representative,Noun/Verb,她是我们班的代表。,She is the representative of our class.
-培养,péi yǎng,Cultivate,Verb,学校培养学生的领导能力。,The school cultivates students' leadership skills.
-精神,jīng shén,Spirit,Noun/Adjective,他有坚韧不拔的精神。,He has an indomitable spirit.
-锻炼,duàn liàn,Exercise,Noun/Verb,每天锻炼身体很重要。,Exercising every day is important for your health.
-领导能力,lǐng dǎo néng lì,Leadership skills,Noun,他展现了出色的领导能力。,He displayed excellent leadership skills.
-社会,shè huì,Society,Noun,社会发展日新月异。,Society is developing rapidly.
-社区,shè qū,Community,Noun,我们的社区举办了一个志愿者活动。,Our community organized a volunteer event.
-意识,yì shí,Consciousness,Noun/Verb,增强环保意识很重要。,Enhancing environmental consciousness is crucial.
-提供,tí gōng,Provide,Verb,学校提供了免费午餐。,The school provides free lunches.
-实习,shí xí,Internship,Noun/Verb,我在医院实习。,I am interning at the hospital.
-积累,jī lěi,Accumulate,Verb/Noun,积累经验很重要。,Accumulating experience is essential.
-经验,jīng yàn,Experience,Noun,这次旅行给我带来了很多经验。,This trip brought me a lot of experience.
-随着,suí zhe,Along with,Preposition,随着时间的推移，...,"Along with the passage of time, ..."
-寄宿家庭,jì sù jiā tíng,Host family,Noun,我在美国有一个寄宿家庭。,I have a host family in the United States.
-当地,dāng dì,Local,Adjective/Noun,我们正在游览当地的景点和风俗。,We are exploring local attractions and customs.
-人际交往,rén jì jiāo wǎng,Interpersonal communication,Noun,人际交往是一项重要的技能。,Interpersonal communication is an important skill.
-面临,miàn lín,Face,Verb,我们将面临很多挑战。,We will face many challenges.
-缺乏,quē fá,Lack,Verb/Noun,缺乏沟通会导致问题。,Lack of communication can lead to problems.
-熬夜,áo yè,Stay up late,Verb/Noun,熬夜会影响健康。,Staying up late can affect your health.
-下降,xià jiàng,Decrease,Verb/Noun,销售额下降了。,Sales have decreased.
-如何,rú hé,How to,Adverb/Question word,你知道如何解决这个问题吗？,Do you know how to solve this problem?
-管理,guǎn lǐ,Management,Verb/Noun,管理团队需要领导能力。,Managing a team requires leadership skills.
-话题,huà tí,Topic,Noun,今天的话题是环境保护。,Today's topic is environmental protection.
-交流,jiāo liú,Communication,Noun/Verb,我们需要增加跨文化交流的机会。,We need to increase opportunities for cross-cultural communication.
-接待,jiē dài,"to host, receiption ",Verb/Noun,酒店提供专业的接待服务。,The hotel provides professional reception service.
-机会,jī huì,Opportunity; chance ,Noun,这是一个难得的学习机会。,This is a rare learning opportunity.
-结束,jié shù,To end; conclusion,Verb/Noun,这个项目已经结束了。,This project has already ended.
-软件,ruǎn jiàn,Software,Noun,你可以下载免费的软件。,You can download free software.
-滴滴出行,dī dī chū xíng,Didi Chuxing,Noun/Proper Noun,滴滴出行是一家知名的打车公司。,Didi Chuxing is a well-known ride-sharing company.
-堵车,dǔ chē,Traffic jam,Noun,今天早上堵车了。,There was a traffic jam this morning.
-签证,qiān zhèng,Visa,Noun/Verb,我需要办理签证去中国。,I need to apply for a visa to go to China.
-海关,hǎi guān,Customs,Noun,在海关检查时请将护照准备好。,Please have your passport ready for customs inspection
-登机口,dēng jī kǒu,Boarding gate,Noun,请到登机口等候。,Please wait at the boarding gate.
-广播,guǎng bō,Broadcasting,Noun/Verb,广播正在播放音乐。,The radio is playing music.
-携带,xié dài,To carry; to take along,Verb,请不要携带大件行李。,Please do not carry large luggage.
-随身,suí shēn,With oneself; portable,Adjective/Noun,这是一个随身小包。,This is a portable small bag.
-登机牌,dēng jī pái,Boarding pass,Noun,请出示您的登机牌。,Please show your boarding pass.
-登机,dēng jī,To board (a plane),Verb/Noun,请准备好登机。,Please prepare to board.
-按照,àn zhào,According to,Preposition,按照计划，我们明天出发。,"According to the plan, we leave tomorrow."
-顺序,shùn xù,Order; sequence,Noun,请按照顺序排队。,Please line up in order.
-巧,qiǎo,"Coincidental, fortunate",Adjective,真是太巧了！我的生日也是今天。,What a coincidence! My birthday is today too
-本来,běn lái,Originally; initially,Adverb,我本来不打算去的。,I didn't plan to go originally.
-夏令营,xià lìng yíng,Summer camp,Noun,孩子们每年都参加夏令营。,The children participate in summer camp every year.
-感受,gǎn shòu,To feel; experience,Verb/Noun,我也有相同的感受,I have the same feelings.( I feel the same) 
-安排,ān pái,"To arrange, arrangement",Verb/Noun,我们需要安排会议的时间。,We need to arrange the meeting time.
-有机会,yǒu jī huì,Have the opportunity,verb,我希望有机会再见面。,I hope to have the opportunity to meet again.
-风俗,fēng sú,Customs; traditions,Noun,不同地方有不同的风俗习惯。,Different places have different customs and traditions.
-相同,xiāng tóng,Same; identical,Adjective,这两个单词的拼写是相同的。,The spelling of these two words is the same.
-文房四宝,wén fáng sì bǎo,The Four Treasures of the Study (traditional Chinese stationery),Noun,这些文房四宝在中国书法中很重要。,These Four Treasures of the Study are essential in Chinese calligraphy.
-礼轻情意重,lǐ qīng qíng yì zhòng,"The gift is light, but the thought is heavy. (An idiom expressing the importance of thoughtfulness)",Idiom,这份礼物虽然不贵，但是礼轻情意重！,"This gift may not be expensive, but it is filled with thoughtfulness."
-代数,dài shù,Algebra,Noun,代数是我最喜欢的一门课。,Algebra is my favorite subject. 
-商务,shāng wù,Business,Noun/Adjective,商务会议将于下周举行。,The business meeting will be held next week.
-高级,gāo jí,Advanced,Adjective,这是一门高级课程。,This is an advanced course.
-制定,zhì dìng,To formulate; to make a plan,Verb,我们需要制定一个计划。,We need to make a plan.
-严格,yán gé,Strict,Adjective,这个老师很严格。,This teacher is very strict.
-鼓励,gǔ lì,To encourage,Verb,父母应该鼓励孩子追求梦想。,Parents should encourage their children to pursue their dreams.
-短期,duǎn qī,Short-term,Adjective/Noun,这是一个短期留学项目，只有三个星期。 ,"This is a short-term study abroad program, lasting only three weeks."
-长期,cháng qī,Long-term,Adjective/Noun,长期合作将带来更多机会。,Long-term collaboration will bring more opportunities.
-目标,mù biāo,Goal; objective,Noun,我们的目标是成功完成项目。,Our goal is to successfully complete the project.
-地大物博,dì dà wù bó,Vast territory and abundant resources,Phrase,这个国家地大物博，拥有丰富的自然资源。,This country has a vast territory and abundant resources.
-面积,miàn jī,Area,Noun,这个城市的面积很大。,The area of this city is very large.
-气候,qì hòu,Climate,Noun,这个地区的气候四季分明。,The climate in this region is distinct in all four seasons.
-发源地,fā yuán dì,Place of origin,Noun,长江是中国最长的河流，发源地位于青藏高原。,"The Yangtze River, China's longest river, originates from the Qinghai-Tibet Plateau."
-分布,fēn bù,Distribution,Verb/Noun,这种植物在全球范围内分布广泛。,This plant is widely distributed globally.
-中下游,zhōng xià yóu,Middle and lower reaches of a river,Phrase,长江是中国最长的河流，分为上游、中游和下游。,"The Yangtze River, China's longest river, is divided into upper, middle, and lower reaches."
-一带,yī dài,"One belt, area",Noun,这个地区的文化和风俗在一带都很相似。,The culture and customs in this region are similar throughout the area.
-原始部落,yuán shǐ bù luò,Primitive tribe,Noun,在这片原始部落，人们依然保持着古老的生活方式。,"In this primitive tribe, people still maintain ancient ways of life."
-炎帝黄帝,yán dì huáng dì,"Yan Emperor and Yellow Emperor, legendary rulers of China in remote antiquity.",Noun,炎帝黄帝是中国古代传说中的两位圣贤帝王。,Yan Emperor and Yellow Emperor are two legendary sage emperors in ancient Chinese mythology.
-盖,gài,"Build, construct",Verb/Noun,房子的盖子被吹飞了。,The roof of the house was blown away.
-逐渐,zhú jiàn,Gradually,Adverb,他逐渐适应了新的工作环境。,He gradually adapted to the new working environment.
-文化传承,wén huà chuán chéng,Cultural inheritance,Noun,这个村庄努力保护和传承自己独特的文化。,The village strives to preserve and inherit its unique culture.
-祖先,zǔ xiān,Ancestors,Noun,我们要缅怀先祖的智慧和贡献。,We should remember the wisdom and contributions of our ancestors.
-崇拜,chóng bài,"Worship, admire",Verb/Noun,他对这位导演崇拜已久。,He has admired this director for a long time.
-身份认同,shēn fèn rèn tóng,Identity recognition,Noun,他们在文化上有着深厚的身份认同。,They have a strong sense of identity culturally.
-延续,yán xù,"Continue, prolong",Verb,这个传统延续了几百年。,This tradition has continued for hundreds of years.
-炎黄子孙,yán huáng zǐ sūn,Descendants of Yan and Huang; The Chinese people,Phrase,我们都是炎黄子孙，共同分享着丰富的文化遗产。,"We are all descendants of Yan and Huang, sharing a rich cultural heritage."
-华夏,huá xià,An ancient name for China; Chinese civilization,Noun/Adjective,华夏文明有着悠久的历史。,Chinese civilization has a long history.
-盛开,shèng kāi,Bloom; be in full bloom,Verb,花朵在春天盛开，美不胜收。,"Flowers bloom in spring, creating a beautiful scene."
-繁荣,fán róng,Prosperous,Noun/Adjective,这个城市经济繁荣，人民生活富裕。,"The city is economically prosperous, and the people live a prosperous life."
-穿着打扮,chuān zhuó dǎ bàn,"Style of dress, one's apprearance",Verb/Noun,他今天穿着打扮得很得体。,He is dressed very appropriately today.
-称呼,chēng hū,"Call, address",Verb/Noun,我们可以用这个称呼来互相称呼。,We can use this address to call each other.
-居住,jū zhù,"Reside, live in",Verb,他居住在这座城市已经很多年了。,He has been residing in this city for many years.
-华夏后裔,huá xià hòu yì,Chinese descendants,Noun/Adjective,我们都是华夏后裔，对中华文化有着深厚的感情。,"We are all Chinese descendants, with a deep affection for Chinese culture."
-汉朝,hàn cháo,Han Dynasty,Noun,汉朝是中国历史上重要的朝代之一。,The Han Dynasty was one of the important dynasties in Chinese history.
-强大,qiáng dà,Powerful and strong,Adjective,这个国家有着强大的经济实力。,This country has a powerful economic strength.
-移居,yí jū,Migrate,Verb,他们决定移居到新的城市。,They decided to migrate to a new city.
-华侨,huá qiáo,Overseas Chinese; Chinese immigrant,Noun,华侨在世界各地为中华文化的传播做出了重要贡献。,Overseas Chinese have made significant contributions to the spread of Chinese culture worldwide.
-唐人街,táng rén jiē,Chinatown,Noun,在纽约，有一个著名的唐人街。,"In New York, there is a famous Chinatown."
-中华民国,zhōng huá mín guó,Republic of China,Noun,中华民国成立于1912年。,The Republic of China was established in 1912.
-成立,chéng lì,Establish,Verb,这个组织于去年成立。,This organization was established last year.
-简称,jiǎn chēng,Abbreviation,Noun,中国的官方简称是中华人民共和国。,The official abbreviation for China is the People's Republic of China.
-正式,zhèng shì,"Formal, official",Adjective,这是一个正式的仪式。,This is a formal ceremony.
-博大精深,bó dà jīng shēn,Broad and profound,Phrase,中国的文化博大精深，深受世界各地的喜爱。,"Chinese culture is broad and profound, loved by people around the world."
-掌握,zhǎng wò,"Master, grasp",Verb/Noun,掌握语言技能对于国际交流非常重要。,Mastering language skills is crucial for international communication.
-流利,liú lì,Fluent,Adjective,他的中文说得很流利。,He speaks Chinese fluently.
-收获,shōu huò,"Harvest, gain","Noun, Verb",秋天是丰收的季节，农民们都希望有好的收获。,"Autumn is the season of harvest, and farmers hope for a good harvest."
-挑战,tiǎo zhàn,Challenge,"Noun, Verb",参加比赛是一种挑战自己的好方式。,Participating in a competition is a good way to challenge oneself.
-优美,yōu měi,"Graceful, elegant, beautiful",Adjective,这幅画展现了艺术的优美。,This painting showcases the beauty of art.
-继续,jì xù,Continue,Verb,请继续工作，不要停。,Please continue working and don't stop.
-历史悠久,lì shǐ yōu jiǔ,Long and rich history,Adjective,这座城市有着悠久的历史。,This city has a long and rich history.
-丰富多彩,fēng fù duō cǎi,Rich and colorful,Adjective,这个地方的文化非常丰富多彩。,The culture in this place is rich and colorful.
-吸引,xī yǐn,Attract,Verb,这个广告能吸引更多的消费者。,This advertisement can attract more consumers.
-总而言之,zǒng ér yán zhī,"In summary, to sum up","Idiom, Adverb",我们经过讨论，总而言之，决定推迟这个项目。,"After discussing, in summary, we decided to postpone this project."
-进步,jìn bù,Progress,"Noun, Verb",科技的进步改变了我们的生活方式。,Technological progress has changed our way of life.
-讨论,tǎo lùn,Discuss,Verb,我们需要集体讨论这个问题。,We need to discuss this issue collectively.
-师傅领进门，修行在个人,"shī fu lǐng jìn mén, xiū xíng zài gè rén","Master leads you in, practice is up to the individual",Proverb,学艺术要有师傅领进门，但修行在个人。,"Learning art needs guidance from a master, but the practice is up to the individual."
-阅读,yuè dú,Read,Verb,阅读是获取知识的重要途径。,Reading is an important way to acquire knowledge.
-特地,tè dì,"Specially, intentionally",Adverb,他特地走了很远的路来参加这个活动。,He came a long way specially to attend this event.
-心得,xīn dé,"Insight, personal experience",Noun,活动结束后，每个人都分享了自己的心得。,"After the event, everyone shared their personal insights."
-熟语,shú yǔ,"Common saying, familiar expression",Noun,学习一门语言不仅要学习词汇，还要了解常用的熟语。,Learning a language involves not only learning vocabulary but also understanding common sayings.
-成语,chéng yǔ,Chinese Idiom,Noun,学习成语有助于提高中文水平。,Studying Chinese idioms helps improve Chinese proficiency.
-谚语,yàn yǔ,Proverb,Noun,谚语是一个文化传统的重要组成部分。,Proverbs are an important part of cultural tradition.
-歇后语,xiē hòu yǔ,Riddle-like Saying,Noun,歇后语常常具有幽默感，需要巧妙理解。,Riddle-like sayings are often humorous and require clever understanding.
-智慧,zhì huì,Wisdom,Noun,这位老人充满智慧，经验丰富。,This elderly person is full of wisdom and rich in experience.
-会心一笑,huì xīn yī xiào,A knowing smile,Idiom,听到那个笑话后，大家都会心一笑。,"After hearing that joke, everyone shared a knowing smile."
-组成,zǔ chéng,"Compose, constitute",Verb,这本书由多个短篇故事组成。,This book is composed of multiple short stories.
-性别,xìng bié,Gender,Noun,在现代社会，性别平等越来越受到重视。,"In modern society, gender equality is increasingly emphasized."
-属相,shǔ xiàng,Chinese zodiac sign,Noun,属相有十二个，每个都代表一年的生肖。,"There are twelve Chinese zodiac signs, each representing a zodiac year."
-辈分,bèi fèn,"Generation, seniority",Noun,在中国传统文化中，辈分很重要。,"In traditional Chinese culture, seniority is important."
-总之,zǒng zhī,"In summary, in a word",Adverb,这次会议讨论了很多问题，总之，我们需要更多时间。,"This meeting discussed many issues; in summary, we need more time."
-含义,hán yì,"Meaning, implication",Noun,这个词的含义很丰富，需要细细品味。,The meaning of this word is rich and needs to be carefully appreciated.
-符号,fú hào,Symbol,Noun,符号在语言和文化中起着重要的作用。,Symbols play an important role in language and culture.
-文化现象,wén huà xiàn xiàng,Cultural phenomenon,Noun,互联网的兴起是现代社会的一个文化现象。,The rise of the internet is a cultural phenomenon in modern society.
-反映,fǎn yìng,Reflect,Verb,作品通过艺术手法反映了社会现象。,The work reflects social phenomena through artistic techniques.
-奢侈品,shē chǐ pǐn,Luxury goods,Noun,在春节期间，人们常常购买奢侈品作为礼物。 ,"During the Spring Festival, people often buy luxury goods as gifts."
-(印象)深刻,(yìn xiàng) shēn kè,(Impression) Deep,Adjective/Noun,他给我留下了深刻的印象。 ,He left me with a deep impression.
-守时,shǒu shí,Punctual,Adjective,我非常守时，从不迟到。 ,I am very punctual and never arrive late.
-影响,yǐng xiǎng,Influence,Noun/Verb,这本书对我的人生产生了深远的影响。 ,This book had a profound influence on my life.
-时间观念,shí jiān guān niàn,Time awareness,Noun,中国人有着强烈的时间观念。 ,Chinese people have a strong sense of time awareness.
-品质,pǐn zhì,Quality,Noun,这家公司以高品质产品著称。 ,This company is known for its high-quality products.
-优点,yōu diǎn,Advantages,Noun,她的优点包括聪明和善良。 ,Her advantages include intelligence and kindness.
-缺点,quē diǎn,Disadvantages,Noun,每个人都有自己的优点和缺点。 ,Everyone has their own advantages and disadvantages.
-印象,yìn xiàng,Impression,Noun,我对这个城市的印象非常深刻。 ,I have a very deep impression of this city.
-勤奋的,qīn fèn de,Diligent,Adjective,他是一个勤奋的工作者。 ,He is a diligent worker.
-诚实的,chéng shí de,Honest,Adjective,诚实的人总是备受尊敬。 ,Honest people are always respected.
-自信的,zì xìn de,Confident,Adjective,她是一个自信的演讲者。 ,She is a confident speaker.
-积极的,jī jí de,Positive,Adjective,积极的思维有助于解决问题。 ,Positive thinking helps in problem-solving.
-有责任心的,yǒu zé rèn xīn de,Responsible,Adjective,一个有责任心的人会尽力完成任务。 ,A responsible person will do their best to complete a task.
-有耐心的,yǒu nài xīn de,Patient,Adjective,医生需要有耐心来对待病人。 ,Doctors need to be patient with patients.
-洁白,jié bái,Pure white,Adjective,新娘穿着洁白的婚纱。 ,The bride is wearing a pure white wedding dress.
-欣赏,xīn shǎng,Appreciate,Verb/Noun,我欣赏你的努力工作。 ,I appreciate your hard work.
-传说,chuán shuō,Legend,Noun/Verb,这是一个古老的传说故事。 ,This is an ancient legend.
-然而,rán ér,However,Adverb,他很努力，然而没有成功。 ,"He worked hard; however, he didn't succeed."
-幸福,xìngfú,Blissful and happy,Noun/Adjective,我们的家庭生活充满了幸福。 ,Our family life is filled with happiness.
-圆满,yuán mǎn,"Perfect, complete",Adjective/Noun,他们的婚礼非常圆满。 ,Their wedding was perfect.
-无法,wú fǎ,"Unable, incapable",Adverb,我无法理解这个问题。 ,I am unable to understand this issue.
-遗憾,yí hàn,"Regret, pity",Noun/Adjective,他对过去的决定感到遗憾。 ,He regrets his past decisions.
-思念,sī niàn,"To miss, think of, yearn for",Noun/Verb,我常常思念家乡的风景。 ,I often miss the scenery of my hometown.
-故乡,gù xiāng,Hometown,Noun,每年春节，我都会回故乡与家人团聚。 ,"Every year during the Spring Festival, I return to my hometown to reunite with my family."
-因此,yīn cǐ,"Therefore, as a result",Adverb,他非常勤奋，因此取得了很大的成功。 ,"He is very diligent, and therefore, he has achieved great success."
-思乡,sī xiāng,"Homesickness, yearning for hometown",Noun/Verb,在异国他乡，我常常思乡。 ,"In a foreign land, I often yearn for my hometown."
-习俗,xí sú,Custom,Noun,这个地区有着独特的传统习俗。 ,This region has unique traditional customs.
-特制,tè zhì,"Specially made, custom-made",Adjective,这是一款特制的礼物。 ,This is a specially made gift.
-馅,xiàn,"Filling, inner stuffing",Noun,月饼的馅有很多种选择。 ,Mooncakes come with a variety of fillings.
-形状,xíng zhuàng,"Shape, form",Noun,这个饼干有一个有趣的形状。 ,This cookie has an interesting shape.
-图案,tú àn,Pattern or design,Noun,这个图案非常漂亮。 ,This pattern is very beautiful.
-花好月圆,huā hǎo yuè yuán,Flowers in full bloom and a full moon,Idiom,中国的中秋节象征着花好月圆的美好愿望。 ,The Chinese Mid-Autumn Festival symbolizes the wish for flowers in full bloom and a full moon.
-合家团圆,hé jiā tuán yuán,Family reunion,Idiom,春节是合家团圆的时刻。 ,The Spring Festival is a time for family reunion.
-五花八门,wǔ huā bā mén,A wide variety of,Idiom,这个市场上有五花八门的商品。 ,There is a wide variety of products in this market.
-热量,rè liàng,Calories,Noun,食物中的热量含量是关键因素。 ,The calorie content in food is a key factor.
-营养,yíng yǎng,Nutrition,Noun,健康饮食需要充足的营养。 ,A healthy diet requires adequate nutrition.
-卡路里,kǎ lù lǐ,Calories,Noun,我需要控制卡路里的摄入。 ,I need to control my calorie intake.
-豆沙,dòu shā,Sweet red bean paste,Noun,月饼的馅料通常包括豆沙。 ,Mooncakes often have sweet red bean paste as filling.
-蛋黄,dàn huáng,Egg yolk,Noun,蛋黄是月饼的重要成分之一。 ,Egg yolk is one of the key ingredients in mooncakes.
-此外,cǐ wài,Furthermore or besides,Adverb,中秋节是一个传统的中国节日，此外，它也被叫做月饼节。,"The Mid-Autumn Festival is a traditional Chinese holiday, and furthermore, it is also known as the Mooncake Festival."
-互相,hù xiāng,Mutual or each other,Adverb,我们应该互相尊重。 ,We should respect each other.
-表达,biǎo dá,To express or convey,Verb,他用诗歌来表达自己的感情。 ,He uses poetry to express his feelings.
-英雄,yīng xióng,Hero,Noun,他是一位真正的英雄，拯救了许多人。 ,"He is a true hero, saving many people."
-同情,tóngqíng,Compassion or sympathy,Noun/Verb,我对他的困境感到深深的同情。,I feel deep sympathy for his plight.
-尊敬,zūn jìng,Respect,Verb/Noun,我非常尊敬我的老师。,I have great respect for my teacher.
-羡慕,xiàn mù,Admire or envy,Verb/Noun,她的成功让很多人非常羡慕。,Her success is admired by many.
-郎才女貌,láng cái nǚ mào,Loving couple with outstanding talents and beauty,Idiom,他们是一对郎才女貌的夫妻。,They are a loving couple with outstanding talents and beauty.
-善良,shàn liáng,Kind-hearted or virtuous,Adjective,她是一个善良而慷慨的人。,She is a kind-hearted and generous person.
-心术不正,xīn shù bù zhèng,Dishonest or bad intentions,Adjective/Noun,小偷的心术不正，常常偷东西。,The thief has dishonest intentions and often steals things.
-神仙,shén xiān,Celestial immortals or gods in heaven,Noun,在中国神话中，有很多神仙的故事。,There are many stories about celestial immortals in Chinese mythology.
-舍不得,shěbude,Reluctant to part with or unwilling to give up,Verb/Adjective,她舍不得把这本书借给别人。,She is reluctant to lend this book to someone else.
+流利,liú lì,Adjective,Fluent,他的中文说得很流利。,He speaks Chinese fluently.
+收获,shōu huò,"Noun, Verb","Harvest, gain",秋天是丰收的季节，农民们都希望有好的收获。,"Autumn is the season of harvest, and farmers hope for a good harvest."
+挑战,tiǎo zhàn,"Noun, Verb",Challenge,参加比赛是一种挑战自己的好方式。,Participating in a competition is a good way to challenge oneself.
+优美,yōu měi,Adjective,"Graceful, elegant, beautiful",这幅画展现了艺术的优美。,This painting showcases the beauty of art.
+继续,jì xù,Verb,Continue,请继续工作，不要停。,Please continue working and don't stop.
+历史悠久,lì shǐ yōu jiǔ,Adjective,Long and rich history,这座城市有着悠久的历史。,This city has a long and rich history.
+丰富多彩,fēng fù duō cǎi,Adjective,Rich and colorful,这个地方的文化非常丰富多彩。,The culture in this place is rich and colorful.
+吸引,xī yǐn,Verb,Attract,这个广告能吸引更多的消费者。,This advertisement can attract more consumers.
+总而言之,zǒng ér yán zhī,"Idiom, Adverb","In summary, to sum up",我们经过讨论，总而言之，决定推迟这个项目。,"After discussing, in summary, we decided to postpone this project."
+进步,jìn bù,"Noun, Verb",Progress,科技的进步改变了我们的生活方式。,Technological progress has changed our way of life.
+讨论,tǎo lùn,Verb,Discuss,我们需要集体讨论这个问题。,We need to discuss this issue collectively.
+师傅领进门，修行在个人,"shī fu lǐng jìn mén, xiū xíng zài gè rén",Proverb,"Master leads you in, practice is up to the individual",学艺术要有师傅领进门，但修行在个人。,"Learning art needs guidance from a master, but the practice is up to the individual."
+阅读,yuè dú,Verb,Read,阅读是获取知识的重要途径。,Reading is an important way to acquire knowledge.
+特地,tè dì,Adverb,"Specially, intentionally",他特地走了很远的路来参加这个活动。,He came a long way specially to attend this event.
+心得,xīn dé,Noun,"Insight, personal experience",活动结束后，每个人都分享了自己的心得。,"After the event, everyone shared their personal insights."
+熟语,shú yǔ,Noun,"Common saying, familiar expression",学习一门语言不仅要学习词汇，还要了解常用的熟语。,Learning a language involves not only learning vocabulary but also understanding common sayings.
+成语,chéng yǔ,Noun,Chinese Idiom,学习成语有助于提高中文水平。,Studying Chinese idioms helps improve Chinese proficiency.
+谚语,yàn yǔ,Noun,Proverb,谚语是一个文化传统的重要组成部分。,Proverbs are an important part of cultural tradition.
+歇后语,xiē hòu yǔ,Noun,Riddle-like Saying,歇后语常常具有幽默感，需要巧妙理解。,Riddle-like sayings are often humorous and require clever understanding.
+智慧,zhì huì,Noun,Wisdom,这位老人充满智慧，经验丰富。,This elderly person is full of wisdom and rich in experience.
+会心一笑,huì xīn yī xiào,Idiom,A knowing smile,听到那个笑话后，大家都会心一笑。,"After hearing that joke, everyone shared a knowing smile."
+组成,zǔ chéng,Verb,"Compose, constitute",这本书由多个短篇故事组成。,This book is composed of multiple short stories.
+性别,xìng bié,Noun,Gender,在现代社会，性别平等越来越受到重视。,"In modern society, gender equality is increasingly emphasized."
+属相,shǔ xiàng,Noun,Chinese zodiac sign,属相有十二个，每个都代表一年的生肖。,"There are twelve Chinese zodiac signs, each representing a zodiac year."
+辈分,bèi fèn,Noun,"Generation, seniority",在中国传统文化中，辈分很重要。,"In traditional Chinese culture, seniority is important."
+某种,mǒu zhǒng,Pronoun,Some kind of,这是某种新的技术。,This is some kind of new technology.
+参与,cān yù,Verb,To participate,她积极参与社区活动。,She actively participates in community activities.
+俗话,sú huà,Noun,Common saying,俗话说，知己知彼百战百胜。,"As the saying goes, know yourself, know your enemy, and you can win every battle."
+既然,jì rán,Conjunction,Since; now that,既然你不喜欢，我就不做了。,"Since you don't like it, I won't do it."
+纪念,jì nián,Verb/Noun,to commemorate; Memorial,这座雕塑是为了纪念英雄。,This sculpture is to commemorate the heroes.
+总之,zǒng zhī,Adverb,"In summary, in a word",这次会议讨论了很多问题，总之，我们需要更多时间。,"This meeting discussed many issues; in summary, we need more time."
+含义,hán yì,Noun,"Meaning, implication",这个词的含义很丰富，需要细细品味。,The meaning of this word is rich and needs to be carefully appreciated.
+符号,fú hào,Noun,Symbol,符号在语言和文化中起着重要的作用。,Symbols play an important role in language and culture.
+文化现象,wén huà xiàn xiàng,Noun,Cultural phenomenon,互联网的兴起是现代社会的一个文化现象。,The rise of the internet is a cultural phenomenon in modern society.
+反映,fǎn yìng,Verb,Reflect,作品通过艺术手法反映了社会现象。,The work reflects social phenomena through artistic techniques.
+赏心悦目,shǎng xīn yuè mù,idiom,A feast for the eyes,这幅画真是赏心悦目，每一笔都充满了艺术的美感。,"This painting is truly a feast for the eyes, every stroke is filled with artistic beauty."
+不可思议,bù kě sī yì,idiom,Unbelievable,他的成就真是不可思议，简直超出了所有人的预料。,"His achievements are truly unbelievable, far beyond everyone's expectations."
+胡说八道,hú shuō bā dào,idiom,Talk nonsense,别听他胡说八道的，他根本不懂这个问题。,Don't listen to his nonsense; he doesn't understand the issue at all.
+半途而废,bàn tú ér fèi,idiom,Give up halfway,不要因为困难就半途而废，坚持下去就会看到成功的一面。,"Don't give up halfway just because it's difficult; persist, and you will see the side of success."
+刮目相看,guā mù xiāng kàn,Idiom,To look at someone with new respect,经过这次表现，他让人刮目相看。,"After this performance, he earned everyone's respect."
