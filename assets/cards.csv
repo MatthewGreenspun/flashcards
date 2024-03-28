@@ -1,32 +1,35 @@
-character,pinyin,english,part of speech,chinese setence,english sentence
-艺术,yì shù,Art,Noun,这幅画展现了艺术家的独特创意。,This painting reflects the artist's unique creativity.
-宝贵,bǎo guì,Valuable; precious,Adjective,这份礼物对我来说非常宝贵。,This gift is very valuable to me.
-财富,cái fù,Wealth; riches,Noun,她通过努力工作积累了不少财富。,She has accumulated a lot of wealth through hard work.
-内涵,nèi hán,Connotation; inner meaning,Noun,这个故事有深刻的内涵。,This story has a profound inner meaning.
-具有,jù yǒu,Have; possess,Verb,这个项目具有重要的战略意义。,This project has significant strategic importance.
-代表性,dài biǎo xìng,Representativeness; representational,Noun,这幅画具有中国画的代表性。,This painting represents the essence of Chinese painting.
-关注,guān zhù,Pay attention to; focus on,Verb,他一直关注着当地的社会问题。,He has always been focused on local social issues.
-起源,qǐ yuán,Origin; to originate,"Noun, Verb",这个传统节日起源于古代的传说。,This traditional festival originated from ancient legends.
-造型,zào xíng,Modeling; artistic composition,Noun,这幅画的造型非常抽象。,The modeling of this painting is very abstract.
-笔墨纸砚,bǐ mò zhǐ yàn,"Brush, ink, paper, and inkstone",Noun,他喜欢用传统的笔墨纸砚进行书法创作。,"He likes to use traditional brush, ink, paper, and inkstone for calligraphy."
-技艺高超,jì yì gāo chāo,Exceptionally skilled; highly accomplished,Adjective,他是一位技艺高超的书法家。,He is a calligrapher with exceptionally skilled techniques.
-其中,qí zhōng,Among; included among these,"Pronoun, Adverb",这些画中，其中一幅特别引人注目。,"Among these paintings, one in particular is quite eye-catching."
-书法家,shū fǎ jiā,Calligrapher,Noun,这位书法家的作品展现了中国传统艺术的魅力。,The works of this calligrapher showcase the charm of traditional Chinese art.
-杰出,jié chū,Outstanding; remarkable,Adjective,他在艺术领域取得了杰出的成就。,He has achieved outstanding success in the field of art.
-勤奋好学,qín fèn hào xué,Diligent and eager to learn,Adjective,她是一位勤奋好学的艺术家。,She is an artist who is diligent and eager to learn.
-源远流长,yuán yuǎn liú cháng,Having a long history,idiom,这个古老的城市有着源远流长的文化传统。,This ancient city has a long and rich cultural tradition.
-甲骨文,jiǎ gǔ wén,Oracle bone script,noun,学习甲骨文有助于了解古代的文字发展。,Studying oracle bone script helps understand the development of ancient writing.
-象形字,xiàng xíng zì,Pictographic character,noun,一些汉字的形状来源于实物，称为象形字。,"The shapes of some Chinese characters are derived from real objects, known as pictographic characters."
-指事字,zhǐ shì zì,Ideogram,noun,汉字中的指事字通过形状表示相应的概念。,Ideograms in Chinese characters represent concepts through their shapes.
-会意字,huì yì zì,Compound ideograph,noun,会意字是由两个或更多独立字合并而成的。,Compound ideographs are formed by combining two or more independent characters.
-形声字,xíng shēng zì,Phonetic compound,noun,形声字结合表意和表音的特点。,Phonetic compounds combine both semantic and phonetic elements.
-偏旁,piān páng,Radical,noun,汉字中的偏旁是构成字形的基本部分之一。,Radicals in Chinese characters are one of the basic components that make up their forms.
-逐渐,zhú jiàn,Gradually,adverb,随着时间的推移，他的健康状况逐渐好转。,"With the passage of time, his health condition gradually improved."
-独一无二,dú yī wú èr,Unique; one of a kind,idiom,每个人都是独一无二的，有着独特的才华和品质。,"Everyone is unique, with their own talents and qualities."
-楷书,kǎ ishū,Regular script (Kaishu),noun,楷书是汉字的一种规范字体，非常工整和美观。,"Kaishu is a standardized style of Chinese characters, known for its neat and aesthetic appearance."
-行书,xíng shū,Running script (Xingshu),noun,行书是一种草书的变体，书写流畅而富有韵律感。,"Xingshu is a cursive style derived from Kaishu, characterized by smooth and rhythmic writing."
-草书,cǎo shū,Cursive script (Caoshu),noun,草书是一种书写非常潦草的字体，笔画简略而富有表现力。,"Caoshu is a script characterized by messy strokes, conveying a sense of simplicity and expressiveness."
-仓颉造字,cāng jié zào zì,Cang Jie invents writing,idiom,传说仓颉是汉字的发明者，创造了文字系统。,"Legend has it that Cang Jie was the inventor of Chinese characters, creating the writing system."
-苏轼,Sū Shì,Su Shi (a famous poet，also commonly known as苏东坡）,proper noun,苏轼是宋代著名的文学家和政治家。,Su Shi was a famous literary figure and statesman in the Song Dynasty.
-灿烂多彩,càn làn duō cǎi,Splendid and colorful,Adjective,这个庆典呈现出灿烂多彩的文化风情。,This festival showcases a splendid and colorful cultural charm.
-属于,shǔ yú,Belong to,Verb,这种艺术形式属于传统文化的一部分。,This art form belongs to a part of traditional culture.
+工业革命,gōng yè gé mìng,noun,Industrial Revolution,工业革命对社会产生了深远的影响。,The Industrial Revolution had a profound impact on society.
+人工智能,rén gōng zhì néng,noun,Artificial Intelligence (AI),人工智能在科技领域取得了巨大的进展。,Artificial Intelligence has made significant progress in the field of technology.
+息息相关,xī xī xiāng guān,idiom,Closely related; intimately connected,他们的利益息息相关，互相影响。,Their interests are closely related and mutually influential.
+突飞猛进,tū fēi měng jìn,idiom,To advance rapidly; to make rapid strides,这个国家在科技领域取得了突飞猛进的发展。,This country has made rapid strides in technological development.
+衣食住行,yī shí zhù xíng,idiom,"Clothing, food, shelter, and transportation; the basic necessities of life",衣食住行是人们生活的基本需求。,"Clothing, food, shelter, and transportation are the basic necessities of life."
+科技,kē jì,noun,Science and Technology,现代社会离不开科技的支持。,Modern society cannot do without the support of technology.
+即使,jí shǐ,conjunction,Even if,即使困难重重，我们也要坚持下去。,"Even if the difficulties are numerous, we must persevere."
+伟大,wěi dà,adjective,Great,他是一位伟大的领袖，为国家做出了卓越的贡献。,He is a great leader who has made outstanding contributions to the country.
+发明,fā míng,noun/verb,Invention,这个发明在医学领域取得了显著的成就。,This invention has achieved significant success in the field of medicine.
+足不出户,zú bù chū hù,idiom,Without leaving home; stay indoors,在现代科技的支持下，我们可以足不出户就完成很多事情。,"With the support of modern technology, we can accomplish many things without leaving home."
+功能,gōng néng,noun,Function; feature,这款手机具有多种实用功能。,This mobile phone has various practical functions.
+用途,yòng tú,noun,Purpose; use,这种工具有很多不同的用途。,This tool has many different purposes.
+必不可少,bì bù kě shǎo,idiom,Indispensable; essential,互联网在现代生活中已经变得必不可少。,The internet has become indispensable in modern life.
+崛起,jué qǐ,verb,Rise; emerge,这个城市在经济发展中崛起成为一个重要的商业中心。,This city has risen to become a significant business center in economic development.
+增添,zēng tiān,verb,Add; increase,新的技术增添了解决问题的新途径。,New technologies add new ways to solve problems.
+翅膀,chì bǎng,noun,Wings,读书可以给人以翅膀，让思想飞翔。,"Reading can give wings to the mind, allowing thoughts to soar."
+效率,xiào lǜ,noun,Efficiency,提高工作效率是提高生产力的关键。,Improving work efficiency is the key to increasing productivity.
+智能,zhì néng,noun/adjective,Intelligent; smart,智能手机具有高度智能的功能。,Smartphones have highly intelligent features.
+生活方式,shēng huó fāng shì,noun,Lifestyle,健康的生活方式对于长寿是非常重要的。,A healthy lifestyle is crucial for longevity.
+过分,guò fèn,adjective,Excessive; overly,不要过分劳累自己，适当休息也很重要。,Don't overwork yourself; it's important to take breaks.
+依赖,yī lài,verb/noun,Rely on; dependence,过度依赖手机可能会影响社交能力。,Excessive dependence on smartphones may affect social skills.
+以致,yǐ zhì,conjunction,Resulting in; leading to,过度使用电子设备可能以致眼睛疲劳。,Excessive use of electronic devices may lead to eye fatigue.
+面对面,miàn duì miàn,adverb,Face to face,面对面的交流更容易理解对方的真实意图。,Face-to-face communication makes it easier to understand the true intentions of others.
+网瘾,wǎng yǐn,noun,Internet addiction,这个年轻人沉迷于网络，已经养成了网瘾。,This young person is addicted to the internet and has developed internet addiction.
+控制,kòng zhì,verb/noun,Control; to control,我们需要学会控制自己的情绪。,We need to learn to control our emotions.
+负面,fù miàn,adjective/noun,Negative; negative aspect,这个事件给公司带来了严重的负面影响。,This event has brought serious negative impacts to the company.
+双刃剑,shuāng rèn jiàn,noun,Double-edged sword,这项政策是一把双刃剑，既有利也有弊。,"This policy is a double-edged sword, it has both advantages and disadvantages."
+利弊,lì bì,noun,Pros and cons,我们需要权衡利弊，做出明智的决定。,We need to weigh the pros and cons and make wise
+研发,yán fā,abbreviation,Research and development,许多公司都在不断加大对新产品研发的投入。,Many companies are continuously increasing investment in research and development of new products.
+代替,dài tì,verb,Replace,新技术逐渐代替了过时的生产工艺。,New technologies are gradually replacing outdated production processes.
+人类,rén lèi,noun,Humanity; mankind,保护环境是人类共同的责任。,Protecting the environment is a common responsibility of humanity.
+家务,jiā wù,noun,Household chores,分担家务是夫妻之间相互关爱的表现。,Sharing household chores is an expression of mutual care between spouses.
+行驶,xíng shǐ,verb,Move; travel (of vehicles),这辆汽车在高速公路上平稳行驶。,The car travels smoothly on the highway.
+失业,shī yè,noun/verb,Unemployment,经济衰退导致很多人失业。,Economic recession has led to a lot of unemployment.
+综上所述,zōng shàng suǒ shù,idiom,In summary; in conclusion,综上所述，我们需要采取切实有效的措施解决这一问题。,"In conclusion, we need to take practical and effective measures to solve this problem."
